@@ -1,0 +1,13 @@
+To build the code using gcc and makefile, type:
+
+    make
+
+To run the software:
+
+    GADA -a 0.8 -T 5 -M 3 -s -0.2 -b 0.0 -c < input.txt > output2.txt
+    
+The input is a single column plain text file 
+
+The output is a several column plain file with several segments
+
+Type GADA -h for more help 
